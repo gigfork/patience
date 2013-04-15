@@ -1,1 +1,1 @@
-coffee -o .tmp/scripts -cw app/scripts
+coffee -cw app/scripts

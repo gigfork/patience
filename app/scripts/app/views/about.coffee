@@ -1,4 +1,4 @@
-define ["jquery", "underscore", "backbone", "handlebars", "text!app/templates/about.hbs"], ($, _, Backbone, Handlebars, aboutTemplate) ->
+define ["jquery", "underscore", "backbone", "handlebars", "text!../templates/about.hbs"], ($, _, Backbone, Handlebars, aboutTemplate) ->
   'use strict'
   
   class AboutView extends Backbone.View

@@ -1,4 +1,4 @@
-define ["jquery", "underscore", "backbone", "handlebars", "text!app/templates/home.hbs"], ($, _, Backbone, Handlebars, homeTemplate) ->
+define ["jquery", "underscore", "backbone", "handlebars", "text!../templates/home.hbs"], ($, _, Backbone, Handlebars, homeTemplate) ->
   'use strict'
   
   class HomeView extends Backbone.View

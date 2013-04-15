@@ -1,4 +1,4 @@
-define ["jquery", "underscore", "backbone", "handlebars", "text!app/templates/contact.hbs"], ($, _, Backbone, Handlebars, contactTemplate) ->
+define ["jquery", "underscore", "backbone", "handlebars", "text!../templates/contact.hbs"], ($, _, Backbone, Handlebars, contactTemplate) ->
   'use strict'
   
   class ContactView extends Backbone.View

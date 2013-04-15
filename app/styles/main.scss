@@ -52,11 +52,10 @@ h1, h2, h3, h4 {
   h2, h3 {
     color: #BF4071;
   }
-}
-
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
+  .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+  }
 }
 
 /* Supporting marketing content */
@@ -76,7 +75,6 @@ a {
   &:hover{
     text-decoration: underline;
   }
-
 }
 
 .brand {

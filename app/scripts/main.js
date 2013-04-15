@@ -22,7 +22,8 @@
       backbone: "../components/backbone-amd/backbone",
       underscore: "../components/underscore-amd/underscore",
       bootstrap: "vendor/bootstrap",
-      handlebars: "../components/handlebars/handlebars"
+      handlebars: "../components/handlebars/handlebars",
+      text: "../components/requirejs-text/text"
     }
   });
 
